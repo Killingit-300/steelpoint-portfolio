@@ -1,5 +1,5 @@
 export const siteData = {
-  name: "Jayden Foster",
+  name: "Jayden F",
   brand: "SteelPoint Development",
   location: "Indiana, USA",
 
